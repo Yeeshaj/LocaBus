@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "641446860945",
+    "firebase_url": "https://locabus-c1b1a.firebaseio.com",
+    "project_id": "locabus-c1b1a",
+    "storage_bucket": "locabus-c1b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641446860945:android:4ebb25a09ca5ea94",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.locabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641446860945-qfibrriqmpgocqq5on9a35mdptc9rht7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dellpc.locabus",
+            "certificate_hash": "232fb8342ca08e6417cfdbaa0065b02ef6d88761"
+          }
+        },
+        {
+          "client_id": "641446860945-ch3bltjs7dtkn8de5duk08l2v7rfhitn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYltlQ_6w8gXdq5q_33CUi6m5XHkSrF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641446860945-ch3bltjs7dtkn8de5duk08l2v7rfhitn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -34,7 +34,7 @@
         <Button
             android:id="@+id/btncreateaccount"
             style="@style/buttonstyle"
-
+            android:onClick="create"
             android:text="Create Account"
             android:layout_weight="0.11" />
 

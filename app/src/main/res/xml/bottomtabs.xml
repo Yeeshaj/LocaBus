@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+    <tab
+        id="@+id/Profile"
+
+        title="Profile" />
+    <tab
+        id="@+id/newjourney"
+
+        title="New Journey" />
+    <tab
+        id="@+id/serviceprovider"
+
+        title="Service Provider" />
+    <tab
+        id="@+id/mywallet"
+
+        title="My Wallet"/>
+
+    </tabs>
+</PreferenceScreen>
